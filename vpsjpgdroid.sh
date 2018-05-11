@@ -1,6 +1,6 @@
 # install Script msc
 cd
-wget https://www.dropbox.com/s/h4j9w3y52fv2gh7/instala.sh; chmod +x ./instala.sh; ./instala.sh
+wget https://www.dropbox.com/s/h4j9w3y52fv2gh7/instala.sh && chmod +x ./instala.sh && bash ./instala.sh
 clear
 
 # download script
